@@ -16,6 +16,11 @@ This project analyzes e-commerce dataset aims to provide business insights of an
 to identify trends ,revenue breakdown by region and category and Evaluates marketing performance using key KPIs. 
 make data driven recomendation , and gain deeper understanding of the company performance .
 
+
+<img width="600" height="300" alt="Capture" src="https://github.com/user-attachments/assets/a8fc11e7-6acb-4a6d-a42c-b41d26e63938" />
+
+
+
 ### Data sources :
 
 the primary dataset used for this analysis is "sales_ecommerce_data.csv" file , containing detailed information about each sale made by the company .
