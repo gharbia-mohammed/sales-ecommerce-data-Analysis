@@ -10,11 +10,15 @@
 - [Recommendations](#recommendations)
 
 
+
 ### Project Overview
 
-This project analyzes e-commerce dataset aims to provide business insights of an e-commerce company bu analyzing aspects of sales data we seek
-to identify trends ,revenue breakdown by region and category and Evaluates marketing performance using key KPIs. 
-make data driven recomendation , and gain deeper understanding of the company performance .
+
+This project analyzes an e-commerce dataset and aims to provide business insights for an e-commerce company. 
+By analyzing sales data, we seek to identify trends, break down revenue by region and category, evaluate marketing 
+performance using key KPIs, make data-driven recommendations, and gain a deeper understanding of the company's overall performance.
+
+
 
 
 <img width="600" height="300" alt="Capture" src="https://github.com/user-attachments/assets/a8fc11e7-6acb-4a6d-a42c-b41d26e63938" />
@@ -59,7 +63,7 @@ EDA envolved exploring the sales data to answer key question such as :
  3. the cost per action value is very good and that is indicates that the campaign is successfull
 
 
-### Recomindations:
+### Recommendations:
 
 1. increase the Budget of Ads this is will Contributes in increasing your sales .
 
