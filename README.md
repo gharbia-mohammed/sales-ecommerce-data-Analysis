@@ -39,38 +39,44 @@ the primary dataset used for this analysis is "sales_ecommerce_data.csv" file , 
 ### Data cleaning / preperation :
 
 in the initial data preperation phase we perform the following tasks :
-1. data loading and inspection.
+1. Data loading and inspection.
 2. Handling missing values.
-3. data cleaning and formatting .
+3. Data cleaning and formatting.
+
 
 ### Exploratoty Data analysis :
-EDA envolved exploring the sales data to answer key question such as :
+EDA involved exploring the sales data to answer key questions such as:
 
 - what is the total revenue and Month over Month revenue Growth %?
-- what is the category top sellers?
-- what are the peak sales period ?
+- What are the top-selling categories?
+- What are the peak sales periods?
 - what are the monthy Ads spend?
-- what is the cost per Action (CPA)?
+- What is the cost per action (CPA)?
 
 
 ### Results / findings :
 
- 1.the maximum sales was on november 2024 and the lowest sales was on December 2023,and the main reason for this increase was the Ad spend
-  november 2024  whichh is  higher than the Ad spend on  December with about 22% .
+ 1.Sales peaked in November 2024, driven by a 22% increase in ad spend compared to December 2023, which recorded the lowest sales.
 
- 2. category of electronics is the best performing in terms of sales and revenue
+ 2. Electronics emerged as the top-performing category in terms of both sales and revenue.
 
- 3. the cost per action value is very good and that is indicates that the campaign is successfull
+ 3. The cost per action (CPA) was optimal, indicating a highly effective campaign.
 
 
 ### Recommendations:
 
-1. increase the Budget of Ads this is will Contributes in increasing your sales .
+1. increase Advertising Budget:
+   Allocate a higher budget for ads, as this is likely to drive higher sales and improve revenue growth.
 
-2. focus on expanding and promoting on category of electronics .
+2. Expand and Promote Electronics Category:
+   Prioritize marketing efforts for the electronics category, as it is the top-performing segment and has strong potential for further growth.
 
-3. the sales of february-2023 was reduced about 10% becuse of reducing Ads spen on january,
-   so make your spending for Ads consistent and try to make special offer for your old customer
-   to increase the amount of loyal customer this will contribute on reducing the budget for
-   ads and will increase your sales
+3. Maintain Consistent Ad Spending
+   February 2023 sales dropped by about 10% due to reduced ad spend in January.
+
+4. introduce special offers for existing customers to strengthen loyalty.
+   This strategy can reduce future advertising costs while increasing repeat purchases and overall sales.
+
+
+
 
