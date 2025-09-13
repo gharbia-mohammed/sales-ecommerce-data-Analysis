@@ -6,6 +6,7 @@
 - [Tools](#tools)
 - [Data Cleaning / Preparation](#data-cleaning--preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Modeling & Prediction](#modeling--prediction)
 - [Results / Findings](#results--findings)
 - [Recommendations](#recommendations)
 
@@ -32,7 +33,7 @@ the primary dataset used for this analysis is "sales_ecommerce_data.csv" file , 
 
 ### Tools :
 
-- python - Data cleaning , exploration and Exporting processed data to Excel .
+- python - Data cleaning , exploration , Exporting processed data to Excel and linear regression modeling.
 - power bi - Building interactive dashboards and Visualizing sales performance and digital marketing KPIs .
 
 
@@ -52,6 +53,31 @@ EDA involved exploring the sales data to answer key questions such as:
 - What are the peak sales periods?
 - what are the monthy Ads spend?
 - What is the cost per action (CPA)?
+
+### Modeling & Prediction :
+
+We built and evaluated a **linear regression model**:
+- **Features (X):** Units Sold, Ad Spend, Conversion Rate  
+- **Target (y):** Revenue  
+- **Train/Test Split:** Last month used as test data  
+- **Metrics Used:**
+  - R² Score (explained variance)
+  - MAE (Mean Absolute Error)
+  - RMSE (Root Mean Squared Error)
+
+Then, we performed **scenario analysis**:
+- Increased ad spend by **30%**
+- Predicted new monthly revenues
+- Calculated expected % growth
+- Visualized results in a **line chart** comparing 2024 actual revenue vs. 2025 predicted revenue (with +30% ad spend)
+
+
+
+
+<img width="1000" height="500" alt="prediction 2025 after increasing ads spend edited final" src="https://github.com/user-attachments/assets/f6547811-491b-4cb2-b041-d8b737f764bd" />
+
+
+
 
 
 ### Results / findings :
