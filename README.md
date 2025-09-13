@@ -12,6 +12,7 @@
 
 
 
+
 ### Project Overview
 
 
@@ -20,9 +21,12 @@ By analyzing sales data, we seek to identify trends, break down revenue by regio
 performance using key KPIs, make data-driven recommendations, and gain a deeper understanding of the company's overall performance.
 
 
+<br><br>
 
+<img width="1000" height="700" alt="conversion rate vs ctr" src="https://github.com/user-attachments/assets/03bd2b8e-a3df-4a19-ac9f-bcb7cac23402" />
 
-<img width="600" height="300" alt="Capture" src="https://github.com/user-attachments/assets/a8fc11e7-6acb-4a6d-a42c-b41d26e63938" />
+<br><br>
+
 
 
 
@@ -72,11 +76,13 @@ Then, we performed **scenario analysis**:
 - Visualized results in a **line chart** comparing 2024 actual revenue vs. 2025 predicted revenue (with +30% ad spend)
 
 
+<br><br>
 
 
 <img width="1000" height="500" alt="prediction 2025 after increasing ads spend edited final" src="https://github.com/user-attachments/assets/f6547811-491b-4cb2-b041-d8b737f764bd" />
 
 
+<br><br>
 
 
 
