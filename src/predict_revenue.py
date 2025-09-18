@@ -62,6 +62,8 @@ print("RMSE:", np.sqrt(mean_squared_error(y_test, y_pred)))
 # STEP 3: Predict Revenue Growth with 30% Higher Ad Spend:
 
 # Simulate scenario: +30% ad spend:
+
+total_2024 = y.sum()  # Sum of all actual revenue values
 X_scenario = X.copy()
 X_scenario['Ad_Spend'] *= 1.3
 y_scenario_pred = model.predict(X_scenario)
