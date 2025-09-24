@@ -10,10 +10,10 @@ df = pd.read_csv("sales_ecommerce_data.csv")
 # 2️⃣ Explore Dataset
 
 print("📊 Dataset Shape:", df.shape)
-print("\nℹ️ Dataset Info:")
+print("\n Dataset Info:")
 print(df.info())
-print("\n❓ Missing Values per Column:\n", df.isnull().sum())
-print("\n🔁 Number of Duplicate Rows:", df.duplicated().sum())
+print("\n Missing Values per Column:\n", df.isnull().sum())
+print("\n Number of Duplicate Rows:", df.duplicated().sum())
 
 
 # 3️⃣ Data Cleaning
