@@ -57,9 +57,9 @@ EDA involved exploring the sales data to answer key questions such as:
 - what are the monthy Ads spend?
 - What is the cost per action (CPA)?
 
-### Results / findings :
+### Results:
 
-1.Sales peaked in November 2024, driven by a 22% increase in ad spend compared to December 2023, which recorded the lowest sales.
+  1.Sales peaked in November 2024, driven by a 22% increase in ad spend compared to December 2023, which recorded the lowest sales.
 
 2. Electronics emerged as the top-performing category in terms of both sales and revenue.
 
