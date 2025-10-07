@@ -6,7 +6,6 @@
 - [Tools](#tools)
 - [Data Cleaning / Preparation](#data-cleaning--preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Modeling & Prediction](#modeling--prediction)
 - [Results / Findings](#results--findings)
 - [Recommendations](#recommendations)
 
@@ -58,34 +57,6 @@ EDA involved exploring the sales data to answer key questions such as:
 - what are the monthy Ads spend?
 - What is the cost per action (CPA)?
 
-### Modeling & Prediction :
-
-We built and evaluated a **linear regression model**:
-- **Features (X):** Units Sold, Ad Spend, Conversion Rate  
-- **Target (y):** Revenue  
-- **Train/Test Split:** Last month used as test data  
-- **Metrics Used:**
-  - R² Score (explained variance)
-  - MAE (Mean Absolute Error)
-  - RMSE (Root Mean Squared Error)
-
-Then, we performed **scenario analysis**:
-- Increased ad spend by **30%**
-- Predicted new monthly revenues
-- Calculated expected % growth
-- Visualized results in a **line chart** comparing 2024 actual revenue vs. 2025 predicted revenue (with +30% ad spend)
-
-
-<br><br>
-
-
-<img width="1000" height="500" alt="prediction 2025 after increasing ads spend edited final" src="https://github.com/user-attachments/assets/f6547811-491b-4cb2-b041-d8b737f764bd" />
-
-
-<br><br>
-
-
-
 ### Results / findings :
 
  1.Sales peaked in November 2024, driven by a 22% increase in ad spend compared to December 2023, which recorded the lowest sales.
@@ -106,7 +77,7 @@ Then, we performed **scenario analysis**:
 3. Maintain Consistent Ad Spending
    February 2023 sales dropped by about 10% due to reduced ad spend in January.
 
-4. introduce special offers for existing customers to strengthen loyalty.
+4. introduce special offers for existing customers to strength loyalty.
    This strategy can reduce future advertising costs while increasing repeat purchases and overall sales.
 
 
