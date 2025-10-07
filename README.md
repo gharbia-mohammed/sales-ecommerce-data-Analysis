@@ -22,7 +22,7 @@ performance using key KPIs, make data-driven recommendations, and gain a deeper 
 
 <br><br>
 
-<img width="1000" height="700" alt="conversion rate vs ctr" src="https://github.com/user-attachments/assets/03bd2b8e-a3df-4a19-ac9f-bcb7cac23402" />
+<img width="800" height="600" alt="conversion rate vs ctr" src="https://github.com/user-attachments/assets/03bd2b8e-a3df-4a19-ac9f-bcb7cac23402" />
 
 <br><br>
 
