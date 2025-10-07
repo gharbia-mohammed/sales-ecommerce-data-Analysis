@@ -59,11 +59,12 @@ EDA involved exploring the sales data to answer key questions such as:
 
 ### Results:
 
-1.Sales peaked in November 2024, driven by a 22% increase in ad spend compared to December 2023, which recorded the lowest sales.
+1. Electronics emerged as the top-performing category in terms of both sales and revenue.
 
-2. Electronics emerged as the top-performing category in terms of both sales and revenue.
+2. The cost per action (CPA) was optimal, indicating a highly effective campaign.
 
-3. The cost per action (CPA) was optimal, indicating a highly effective campaign.
+3. Sales peaked in November 2024, driven by a 22% increase in ad spend compared
+   to December 2023, which recorded the lowest sales.
 
 
 ### Recommendations:
